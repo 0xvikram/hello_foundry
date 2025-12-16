@@ -7,7 +7,6 @@ contract Counter {
     function setNumber(uint256 newNumber) public {
         number = newNumber;
     }
-    zxcvbnm,
 
     function increment() public {
         number++;
